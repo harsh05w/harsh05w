@@ -1,45 +1,29 @@
 <h1 align="center">Hi 👋, I'm Harshwardhan Jadhav</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="left">A passionate Frontend Developer| Video Editor | Graphics Designer </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-</p>
 
----
 
 ### 🌐 About Me
 
-- 🔭 I’m currently working on **[Project Name or Freelance Projects]**
-- 🌱 I’m currently learning **[React, Vue, TypeScript, Next.js, etc.]**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind, etc.**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: *[Optional personal touch like “I love building UI that tells a story!”]*
+- 🔭 I’m currently working on __E-Commerce landing page__
+- 🌱 I’m currently learning __React,Next.js.Node.js__
+- 💬 Ask me about __HTML, CSS, JavaScript, React, Tailwind, etc.__
+- 📫 How to reach me: __jadhavharsh7057@gmail.com__
+- ⚡ Fun fact: __If I'm not coding, I’m learning something that will help me code better__
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ImranKhanYouTuber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alamimran613) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikyoutuber) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technosnag) 
 
-### 🧰 Tech Stack
 
-#### Languages
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+<!-- Snake Game Repo View -->
 
-#### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-593D88?logo=redux&logoColor=white)
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
 
 ### 🚀 Projects
 
@@ -59,16 +43,5 @@
 
 ---
 
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="linkedin.com/in/harshwardhan-s-jadhav/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:business.harshjadhav@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" />
-  </a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
