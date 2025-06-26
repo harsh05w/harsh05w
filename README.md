@@ -30,7 +30,7 @@
 
 ### 🚀 Projects
 
-- 🎨 [Portfolio Website](https://yourportfolio.com) – My personal portfolio site built with React & Tailwind
+- 🎨 [Portfolio Website](https://harsh05w.github.io/portfolio/) – My personal portfolio site built with React & Tailwind
 - 🌌 [3D Solar System](https://github.com/yourusername/3d-solar-system) – A Three.js solar system with animations & UI controls
 - 📱 [Weather App](https://github.com/yourusername/weather-app) – Real-time weather app using OpenWeatherMap API
 - 🛒 [E-commerce Frontend](https://github.com/yourusername/ecommerce-ui) – Modern UI for an e-commerce platform
