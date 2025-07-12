@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshwardhan Jadhav</h1>
 <h3 align="left">A passionate Frontend Developer| Video Editor | Graphics Designer </h3>
-
+<h3 align="left">frontend Developer based in INDIA</h3>
 
 
 ### 🌐 About Me
